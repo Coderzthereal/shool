@@ -1,0 +1,1 @@
+Dir['*_test.rb'].each { require_relative _1 }

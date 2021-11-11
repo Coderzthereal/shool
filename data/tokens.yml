@@ -1,0 +1,20 @@
+---
+"(": :begin_paren
+")": :end_paren
+"=": :eq
+"!": :not
+"[": :l_bracket
+"]": :r_bracket
+"{": :l_curly
+"}": :r_curly
+"<": :lt
+">": :gt
+"+": :plus
+"-": :minus
+"*": :star
+"/": :slash
+":": :colon
+";": :semicolon
+",": :comma
+"->": :right_assign
+"==": :is_eq
