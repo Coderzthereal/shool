@@ -4,7 +4,7 @@ The eventual goal is a Self-Hosting Object-Oriented Language interpreter. Curren
 As yet unnamed. Might call it 'shoe'. 
 
 ## Installation and usage
-Clone or download, navigate to project folder, and run `./bin/runner.rb [path to file]`. Currently nonfunctional.
+Clone or download, navigate to project folder, and run `./bin/runner.rb [path to file]`. Currently lexes and parses but does not interpret.
 
 Runs in pure Ruby. Should work with Ruby 2+, but it's only been tested with 2.7+.
 
