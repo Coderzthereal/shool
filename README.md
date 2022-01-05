@@ -9,7 +9,7 @@ Clone or download, navigate to project folder, and run `./bin/runner.rb [path to
 Runs in pure Ruby. Should work with Ruby 2+, but it's only been tested with 2.7+.
 
 ## Contributions
-Feel free to make pull requests. If any actually show up, I'll be very thankful. I have no idea what I'm doing with testing so update tests if you do.
+Feel free to make pull requests. If any actually show up, I'll be very thankful. I have no idea what I'm doing with testing so update tests if you would like.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
